@@ -114,4 +114,5 @@ python -m pytest -q          # 8 point-in-time and data-integrity tests
 ```
 
 Related docs: [dataset scorecard](docs/dataset_scorecard.md) ·
-[compliance memo](docs/compliance_memo.md) · [PM research note](docs/pm_research_note.md)
+[compliance memo](docs/compliance_memo.md) · [PM research note](docs/pm_research_note.md) ·
+[alt-data cheat sheet](docs/alt_data_cheat_sheet.md)
