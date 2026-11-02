@@ -1,0 +1,2 @@
+file,series,seasonal_adjustment,sha256,source,missing_months,ingested_utc
+bls_CUUR0000SETG01_airline_fares.xlsx,CUUR0000SETG01,not seasonally adjusted,7779eba8877ff5fa2a848a9412e419ed184019d911c357b847a3f2afd0a87681,https://data.bls.gov/timeseries/CUUR0000SETG01 (downloaded by user),2025-10,2026-11-02T21:04:05+00:00

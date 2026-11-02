@@ -1,0 +1,57 @@
+{
+  "headline": [
+    {
+      "model": "B1",
+      "n": 84,
+      "MAPE_%": 7.42,
+      "median_APE_%": 5.24,
+      "bias_%": -6.46
+    },
+    {
+      "model": "B2",
+      "n": 84,
+      "MAPE_%": 5.02,
+      "median_APE_%": 3.31,
+      "bias_%": 1.47
+    },
+    {
+      "model": "M1",
+      "n": 84,
+      "MAPE_%": 7.55,
+      "median_APE_%": 6.12,
+      "bias_%": 3.02
+    },
+    {
+      "model": "M2",
+      "n": 84,
+      "MAPE_%": 7.25,
+      "median_APE_%": 5.6,
+      "bias_%": 3.36
+    },
+    {
+      "model": "M3",
+      "n": 84,
+      "MAPE_%": 4.95,
+      "median_APE_%": 4.04,
+      "bias_%": 0.45
+    },
+    {
+      "model": "M4",
+      "n": 84,
+      "MAPE_%": 3.39,
+      "median_APE_%": 2.97,
+      "bias_%": -0.24
+    }
+  ],
+  "eval_start": "2023-03-31",
+  "n": 84,
+  "direction_hits": 47,
+  "direction_n": 84,
+  "direction_p": 0.16306708559599148,
+  "m3_beats_b2": 41,
+  "m4_beats_b2": 45,
+  "m4_sign_p": 0.2928233973606123,
+  "fare_dir_hits": 58,
+  "fare_dir_n": 84,
+  "fare_dir_p": 0.0003139736357909109
+}

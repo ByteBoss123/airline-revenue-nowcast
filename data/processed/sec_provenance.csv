@@ -1,0 +1,7 @@
+file,cik,ticker,entity,sha256,source,ingested_utc
+sec_companyfacts_AAL.json,6201,AAL,American Airlines Group Inc.,e86aa2120584973c57138a4d9d645d5c9ab641783c1180ce3ce3f74d98288cde,https://data.sec.gov/api/xbrl/companyfacts/CIK0000006201.json (saved by user from browser),2026-11-02T21:04:04+00:00
+sec_companyfacts_ALK.json,766421,ALK,"ALASKA AIR GROUP, INC.",c511c7f55479ea30cc08657f29faa7a7e1eb7c11d52fede4978a55ad400f04c6,https://data.sec.gov/api/xbrl/companyfacts/CIK0000766421.json (saved by user from browser),2026-11-02T21:04:05+00:00
+sec_companyfacts_DAL.json,27904,DAL,"DELTA AIR LINES, INC.",1fc76c7cfaaf40573ff026475ec4e2565027fda09b7a405c2c126977cbd4efd3,https://data.sec.gov/api/xbrl/companyfacts/CIK0000027904.json (saved by user from browser),2026-11-02T21:04:05+00:00
+sec_companyfacts_JBLU.json,1158463,JBLU,JETBLUE AIRWAYS CORP,74e92185809895777b889bcd8370a9fd9e25469d5e169972d9be754a1ba4c78c,https://data.sec.gov/api/xbrl/companyfacts/CIK0001158463.json (saved by user from browser),2026-11-02T21:04:05+00:00
+sec_companyfacts_LUV.json,92380,LUV,SOUTHWEST AIRLINES CO,1d6503344364d624931047a53450e85a668b6f7f7b94295c24ee624320756033,https://data.sec.gov/api/xbrl/companyfacts/CIK0000092380.json (saved by user from browser),2026-11-02T21:04:05+00:00
+sec_companyfacts_UAL.json,100517,UAL,"United Airlines Holdings, Inc.",101840ea02f81817974e0ef31a52eb7ad0f28185ec8057063f9f103b5a9471e0,https://data.sec.gov/api/xbrl/companyfacts/CIK0000100517.json (saved by user from browser),2026-11-02T21:04:05+00:00

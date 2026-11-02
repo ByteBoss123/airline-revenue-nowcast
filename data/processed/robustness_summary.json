@@ -1,0 +1,15 @@
+{
+  "n_quarters": 15,
+  "mean_gain_pts": 1.448,
+  "ci95": [
+    -0.53,
+    4.456
+  ],
+  "quarter_wins": 7,
+  "quarter_sign_p": 0.696380615234375,
+  "fare_dir_hits": 14,
+  "fare_dir_n": 15,
+  "fare_dir_p": 0.00048828125,
+  "tsa_dir_hits": 6,
+  "tsa_dir_p": 0.84912109375
+}

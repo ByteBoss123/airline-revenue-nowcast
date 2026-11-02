@@ -1,0 +1,9 @@
+file,years_in_file,rows,vintage,sha256,source,ingested_utc
+tsa_checkpoint_2019.txt,2019,365,archived_revised,db9e58862b025533cafb1361e1f5a9b337f24f9f340e78097304260dbdf403db,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2020.txt,2020,366,archived_revised,f85c8421f9edfa8c0aad5a42c004238cb1b464688ecab548d5f08c56a7857c8d,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2021.txt,2021,365,archived_revised,6a7a6ac251ec203d2cdc31873400892ef97fb5440403473cf1283c411b5b1694,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2022.txt,2022,365,archived_revised,4ba9f2e400ec0031d13a299bea7c59a14fd4fa962d8c80982ad5734cc23c4db2,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2023.txt,2023,365,archived_revised,06144c70a849a3d6dee610b457a666bbf48ebf8584354c39e98d831fbe39ef9b,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2024.txt,2024,366,archived_revised,9caa30f1a9f039ad0c20c89256215b0294ce11b7e6d494478a6e879dc92e00e4,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2025.txt,2025,365,archived_revised,a12d10e79ee882a00de2a685296155159b32e297a341e2beb25a8f9f093ecf4d,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
+tsa_checkpoint_2026.txt,2026,305,current_page,419163bd40925c04686e76440d7d50cf7d05a3ff3d858aa786f95212ab7d78a2,https://www.tsa.gov/travel/passenger-volumes (copied by user from browser),2026-11-02T21:04:04+00:00
